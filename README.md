@@ -1,2 +1,2 @@
 # fid
-Repository is for the class DIG2500 Fundamentals of Interactive Design
+Repository is for DIG2500 Fundamentals of Interactive Design online class
