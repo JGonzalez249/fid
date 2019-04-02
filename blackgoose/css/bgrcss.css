@@ -41,7 +41,7 @@ h2 {
 
 .newitem strong {
     font-weight: bold;
-    color: tomato;
+    color: indianred;
 }
 
 #appetizers h3 {
@@ -75,4 +75,12 @@ dd {
 a {
     text-decoration: none;
     font-variant: small-caps
+}
+
+footer {
+    font-weight: bold; 
+}
+
+small {
+    font-weight: bold;
 }
