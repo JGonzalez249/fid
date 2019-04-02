@@ -4,16 +4,15 @@ body {
     background-color: #B09D9D;
     font-size: small;
     font-family: Georgia, serif;
+    line-height: 1.75em;
 }
 
 nav {
     text-align: center;
     font-family: monospace;
+    font-size: 1.5em
 }
 
-nav + a{
-    font: bold;
-}
 
 img {
     display: block;
@@ -28,9 +27,52 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    
+    font-family: Poppins;
+    font-weight: bold;
+    text-align: center;
+}
+
 .price {
     font-weight: bold;
     text-shadow: 0.01em 0.01em 0.1em lightslategray;
 }
 
-.new
+.newitem strong {
+    font-weight: bold;
+    color: tomato;
+}
+
+#appetizers h3 {
+    color: maroon;
+    font-size: large;
+}
+
+#maincourses h3 { 
+    color: maroon;
+    font-size: large;
+}
+
+header{
+    text-align: center;
+    font-family: Poppins, sans-serif;
+}
+
+dt {
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 1.2em;
+    padding: 0.2em;
+
+}
+
+dd {
+    font-display: auto;
+    font-size: 1.15em;
+}
+
+a {
+    text-decoration: none;
+    font-variant: small-caps
+}
